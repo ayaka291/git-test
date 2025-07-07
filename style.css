@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+ul li {
+    display: inline-block;
+    background: #333;
+    color: #fff;
+}
+
+.button {
+    color: #fff;
+    padding: 10px 30px;
+    display: block;
+    text-decoration: none;
+}

@@ -12,19 +12,3 @@ ul li {
     display: block;
     text-decoration: none;
 }
-
-.imgbox {
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.imgbox li {
-    background: none;
-    width: 25%;
-}
-
-img {
-    width: 100%;
-}
